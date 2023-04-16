@@ -95,7 +95,7 @@ Default = false,
 Callback = function(Value)
 toggle_Click = Value
 while wait(cd) do
-if toggle_Click == falss then break end
+if toggle_Click == false then break end
 local args = {
     [1] = {
         [1] = {
