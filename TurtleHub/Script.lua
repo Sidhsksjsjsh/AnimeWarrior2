@@ -40,7 +40,7 @@ PremiumOnly = false
 })
 
 local _function_A3 = "ClientEnemies"
-Tab:AddDropdown({
+T1:AddDropdown({
 Name = "use this function if the feature is bug",
 Default = "ClientEnemies",
 Options = {"ClientEnemies", "Enemies"},
